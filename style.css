@@ -131,8 +131,10 @@ img{
   align-items: center;
 }
 
+/*logo*/
+
 .header-menu .hm-logo{
-  width: 202px;
+  width: 400px;
 }
 
 .hm-menu{
